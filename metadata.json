@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Creative Suite",
+  "description": "A professional-grade image and video editor powered by Gemini and Veo models, allowing seamless content generation and transformation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
